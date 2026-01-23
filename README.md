@@ -59,4 +59,4 @@ For deployment, the key is added using **Render Environment Variables**.
 
 ## Author
 
-Kaushav
+Kaushav Kumar
