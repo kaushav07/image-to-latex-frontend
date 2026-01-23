@@ -26,8 +26,7 @@ https://image-to-latex.vercel.app
 - Converts the equation into LaTeX
 - Shows image preview before processing
 - Displays generated LaTeX
-- One-click copy functionality
-- Clean, minimal, professional UI
+- One click copy functionality
 
 ---
 
